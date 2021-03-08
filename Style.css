@@ -1,0 +1,45 @@
+
+header{
+
+    background-color: rgb(219, 91, 223);
+}
+
+h1{
+text-align: center;
+
+}
+
+ul{
+list-style-type: none ;
+
+
+}
+
+ul li{
+    display: inline;
+    margin-right: 20px;
+}
+
+header nav ul li a {
+
+    text-decoration: none;
+}
+
+img{
+    display: block;
+    width: 19%;
+    margin: 20px;
+    margin-left: 520px;
+    margin-right: auto;
+}
+
+
+#importantInRed {
+
+    color:#E60E1B
+}
+
+.a-blue{
+
+    color:#088C74
+}
